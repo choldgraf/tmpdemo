@@ -1,0 +1,4 @@
+myst-parser[sphinx,linkify]
+sphinx-book-theme
+sphinx-panels
+sphinx-autobuild
